@@ -19,7 +19,7 @@
       //青龙2,9 OpenApi Client Secret
       "QL_SECRET": "7DSoU15-JH0WuR49NbajE3JJ",
       //青龙面包最大ck容量
-      "QL_CAPACITY": 999,
+      "QL_CAPACITY": 1000,
       //消息推送二维码
       "QRurl":"https://wxpusher.zjiecode.com/api/qrcode/DzgoAqpzDTBBOYr0JbuXBRYyROsBSO4zRlj0vek2rJXWLnG8prZx4VEsV8mZnyHV.jpg"
     }
