@@ -1,0 +1,28 @@
+{
+  ///最大支持几个网页
+  "MaxTab": "4",
+  //网站标题
+  "Title": "小饼干",
+  //网站公告
+  "Announcement": "本项目脚本收集于互联网，为了您的财产安全，请关闭京东免密支付",
+  ///多青龙配置
+  "Config": [
+    {
+      //序号必须从1开始
+      "QLkey": 1,
+      //服务器名称
+      "QLName": "狗狗云",
+      //青龙url
+      "QLurl": "http://152.67.194.59:8520",
+      //青龙2,9 OpenApi Client ID
+      "QL_CLIENTID": "Ela18Cu-WKRN",
+      //青龙2,9 OpenApi Client Secret
+      "QL_SECRET": "7DSoU15-JH0WuR49NbajE3JJ",
+      //青龙面包最大ck容量
+      "QL_CAPACITY": 999,
+      //消息推送二维码
+      "QRurl":"https://wxpusher.zjiecode.com/api/qrcode/DzgoAqpzDTBBOYr0JbuXBRYyROsBSO4zRlj0vek2rJXWLnG8prZx4VEsV8mZnyHV.jpg"
+    }
+  ]
+  
+}
